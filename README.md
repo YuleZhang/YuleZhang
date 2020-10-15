@@ -5,8 +5,8 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on quantum computing~.
-- 🌱 I’m currently reading some papers and trying ti implement the scheme in it.
+- 🔭 I’m currently working on quantum machine learning~.
+- 🌱 I’m currently reading some papers and trying to implement the scheme in it.
 - 👯 I’m looking to collaborate on combining model between quantum computing and traditional algorithms.
 <!--
 - 🤔 I’m looking for help with ...
