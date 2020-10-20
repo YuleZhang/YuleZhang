@@ -3,7 +3,7 @@
 <!--
 **YuleZhang/YuleZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![GitHub stars](https://img.shields.io/github/stars/YuleZhang)
+![GitHub stars](https://img.shields.io/github/stars/YuleZhang)  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on quantum machine learning~.
