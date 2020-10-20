@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub stars](https://img.shields.io/github/stars/YuleZhang/JDComment_Spider)](https://github.com/YuleZhang/JDComment_Spider/stargazers)
+![GitHub stars](https://img.shields.io/github/stars/YuleZhang/JDComment_Spider)]
