@@ -3,7 +3,7 @@
 <!--
 **YuleZhang/YuleZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![GitHub stars](https://img.shields.io/github/stars/YuleZhang)  
+![GitHub stars](https://img.shields.io/github/stars/YuleZhang) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yulezhang.visitor-badge)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on quantum machine learning~.
@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 ![YuleZhang's github stats](https://github-readme-stats.vercel.app/api?username=YuleZhang&show_icons=true&theme=buefy)  
 
-![](https://profile-counter.glitch.me/yulezhang/count.svg)
-<! --
+<!--
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuleZhang&layout=compact)]
 -->
 
