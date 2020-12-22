@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 -->
 ![YuleZhang's github stats](https://github-readme-stats.vercel.app/api?username=YuleZhang&show_icons=true&theme=buefy)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuleZhang&layout=compact)]
+![](https://profile-counter.glitch.me/yulezhang/count.svg)
+<! --
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuleZhang&layout=compact)]
+-->
 
