@@ -2,26 +2,30 @@
 
 # Hi, I'm Yule! 👋
 
-### AI Systems Engineer · Agentic Engineering · Product Explorer
+### AI Systems Engineer · Generative AI · Agent Builder
 
-**From efficient AI systems to useful products.**
+**From efficient inference to useful AI products.**
 
-从高性能 AI 系统到 Agent 自动化，探索技术如何创造真正有用的产品。  
-Building efficient AI systems, engineering agents, and practical tools for real problems.
+从高性能推理系统到生成式 AI 与 Agent，探索大模型部署、工程自动化及 AI 产品创造。  
+Building AI systems, deploying generative models, and turning new capabilities into practical products.
 
 [![Total GitHub Stars](https://img.shields.io/github/stars/YuleZhang?label=Total%20Stars&style=flat-square&logo=github)](https://github.com/YuleZhang?tab=repositories)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yulezhang.visitor-badge)
+
+📫 Open to collaboration and new opportunities — **[Eric_Yu1998@outlook.com](mailto:Eric_Yu1998@outlook.com)**
 
 </div>
 
 ## 👨‍💻 About Me / 关于我
 
-- ⚙️ **AI Systems & Performance** — 专注 C++、端侧 AI 推理、GPU/NPU 异构计算与性能优化。  
-  Building efficient on-device inference systems, from kernels to runtime.
-- 🤖 **Agentic Engineering** — 探索让 Agent 自动完成分析、修改、测试与验证的工程工作流。  
-  Turning complex engineering tasks into reproducible, evaluable agent workflows.
-- 🚀 **Code → Product** — 从技术实践中发现真实需求，把想法做成有用的工具和产品。  
-  Exploring real user problems and turning technical ideas into useful products.
+- ⚙️ **AI Systems & Performance** — 专注 C++、GPU/NPU 异构计算、推理 Runtime 与端侧性能优化。  
+  Building efficient inference systems, from kernels to runtime.
+- 🧠 **Generative AI & Model Deployment** — 探索 LLM、Stable Diffusion、Qwen-Image 等模型在端侧与云端 GPU 的部署、推理优化和应用集成。  
+  Exploring LLM and diffusion-model deployment across on-device and GPU environments.
+- 🤖 **Agentic Engineering** — 构建可执行、可验证、可持续迭代的 Agent 工程自动化工作流。  
+  Building reliable agent workflows with tools, evaluation, and feedback loops.
+- 🚀 **Code → Product** — 从前沿技术和真实用户需求中寻找机会，打造有用的 AI 工具与产品。  
+  Turning emerging AI capabilities into practical tools and products.
 
 ## 🧰 Tech Stack / 技术栈
 
